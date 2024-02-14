@@ -1,15 +1,14 @@
 # Indian Password Generator: Secure & Customized Passwords for Everyone
 
-[![Banner or GIF demonstrating the generator in action]]
+![76589f86-9353-4d81-ba67-5fddda78250f](https://github.com/spyder0010/Indian-Password-Generator/assets/112793665/67d89f01-174e-403a-939b-0307f0257a29)
+
 
 **Generate strong, personalized passwords that guard your online privacy with ease!**
 
-Whether you're managing multiple accounts or just starting out, this versatile password generator helps you create unique and secure passwords tailored to your needs.
+Whether you're managing multiple accounts or just starting, this versatile password generator helps you create unique and secure passwords tailored to your needs.
 
 **Start creating strong passwords today!**
 
-
-# Description
 
 ## Powerful Features:
 
@@ -23,9 +22,7 @@ Whether you're managing multiple accounts or just starting out, this versatile p
 
 ## See it in action!
 
-[![Youtube Demo](https://imgur.com/cvSTn8s)](https://www.youtube.com/watch?v=QHjzNHILlZk)
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QHjzNHILlZk?si=1wDSs9ioENosG2Cx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+[![Youtube Demo](http://img.youtube.com/vi/QHjzNHILlZk/maxresdefault.jpg)](https://www.youtube.com/watch?v=QHjzNHILlZk)
 
 _This video showcases the password generator's features and user interface._
 
